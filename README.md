@@ -3,6 +3,7 @@ Resources and Links for the Motor Admin Rails engine
 
 ## Documentation
 * Official Site - https://www.getmotoradmin.com/
+* Github Repo - https://github.com/motor-admin/motor-admin
 * Official Docs - https://docs.getmotoradmin.com/guide/
 * Paid Features - https://www.getmotoradmin.com/pro
 
